@@ -22,6 +22,7 @@
             </TextBox.Background>
         </TextBox>
         <Button Content="Log Out" HorizontalAlignment="Left" Margin="599,325,0,0" VerticalAlignment="Top" Width="124" Height="45" Background="#FFF70B0B" FontSize="24" FontWeight="Bold" Foreground="#FFF9F7F7"/>
+      <Button Content="Log Out" HorizontalAlignment="Left" Margin="599,325,0,0" VerticalAlignment="Top" Width="124" Height="45" Background="#FFF70B0B" FontSize="24" FontWeight="Bold" Foreground="#FFF9F7F7"/>
 
     </Grid>
 </Window>
