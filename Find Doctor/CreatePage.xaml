@@ -1,0 +1,25 @@
+﻿<Window x:Class="Find_Doctor.CreatePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Find_Doctor"
+        mc:Ignorable="d"
+        Title="CreatePage" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="#FF3B4AE0" Offset="0.157"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBox HorizontalAlignment="Left" Height="56" Margin="135,10,0,0" TextWrapping="Wrap" Text="     Create Your Account" VerticalAlignment="Top" Width="483" FontSize="36" FontWeight="Bold" Background="#FF2614D3" Foreground="#FFF9F9F9"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="200,160,0,0" VerticalAlignment="Top" Height="33" Width="344" FontSize="24" FontWeight="Bold"/>
+        <TextBox HorizontalAlignment="Left" Height="38" Margin="47,97,0,0" TextWrapping="Wrap" Text="Email:" VerticalAlignment="Top" Width="83" FontSize="24" Background="#FF0C43B8" FontWeight="Bold" Foreground="#FFF5ECEC"/>
+        <TextBox HorizontalAlignment="Left" Height="38" Margin="47,160,0,0" TextWrapping="Wrap" Text="password:" VerticalAlignment="Top" Width="125" FontSize="24" Background="#FF0C43B8" FontWeight="Bold" Foreground="#FFF5ECEC"/>
+        <TextBox HorizontalAlignment="Left" Height="38" Margin="200,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="344" FontSize="24" FontWeight="Bold"/>
+        <Button Content="Create" HorizontalAlignment="Left" Margin="200,274,0,0" VerticalAlignment="Top" Width="119" Height="49" Background="#FF0F08B0" Foreground="#FFF3F3F3" FontWeight="Bold" FontSize="24"/>
+        <Button Content="Log Out" HorizontalAlignment="Left" Margin="425,274,0,0" VerticalAlignment="Top" Width="119" Height="49" Background="#FFFD2B0A" Foreground="#FFF3F3F3" FontWeight="Bold" FontSize="24"/>
+
+    </Grid>
+</Window>

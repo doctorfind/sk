@@ -1,0 +1,20 @@
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\bin\Debug\Find Doctor.exe.config
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\bin\Debug\Find Doctor.exe
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\bin\Debug\Find Doctor.pdb
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Find Doctor.csprojAssemblyReference.cache
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\MainWindow.g.cs
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\App.g.cs
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Find Doctor_MarkupCompile.cache
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Find Doctor_MarkupCompile.lref
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\MainWindow.baml
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Find Doctor.g.resources
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Find_Doctor.Properties.Resources.resources
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Find Doctor.csproj.GenerateResource.cache
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Find Doctor.csproj.CoreCompileInputs.cache
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Find Doctor.exe
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Find Doctor.pdb
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Add Doctor.g.cs
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\Add_Doctor.g.cs
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\CreatePage.g.cs
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\SearchPage.g.cs
+C:\Users\Saikat\Desktop\Find Doctor\Find Doctor\obj\Debug\SeeDoctor.g.cs
