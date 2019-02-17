@@ -20,6 +20,10 @@
         <TextBox HorizontalAlignment="Left" Height="38" Margin="200,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="344" FontSize="24" FontWeight="Bold"/>
         <Button Content="Create" HorizontalAlignment="Left" Margin="200,274,0,0" VerticalAlignment="Top" Width="119" Height="49" Background="#FF0F08B0" Foreground="#FFF3F3F3" FontWeight="Bold" FontSize="24"/>
         <Button Content="Log Out" HorizontalAlignment="Left" Margin="425,274,0,0" VerticalAlignment="Top" Width="119" Height="49" Background="#FFFD2B0A" Foreground="#FFF3F3F3" FontWeight="Bold" FontSize="24"/>
+      
+      
+      <Button Content="Log Out" HorizontalAlignment="Left" Margin="425,274,0,0" VerticalAlignment="Top" Width="119" Height="49" Background="#FFFD2B0A" Foreground="#FFF3F3F3" FontWeight="Bold" FontSize="24"/>
+
 
     </Grid>
 </Window>
